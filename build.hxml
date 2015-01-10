@@ -1,0 +1,7 @@
+-swf game-s3d-db-hx.swf
+-main game.objects.Scene
+-swf-header 550:400:60:AAAAAA
+-dce full
+--flash-strict
+-swf-lib com.adobe.utils.AGALMiniAssembler.swc
+-swf-version 12
